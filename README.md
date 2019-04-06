@@ -2,11 +2,12 @@
 
 This project implements the card swipping Feature like Tinder in flutter. I have shown different Hill Stations details with this nice looking Ui. We can get details of any place on tapping the card which takes us to next page.
 
-![IMG_20190407_012014](https://user-images.githubusercontent.com/46425856/55674644-eaf8dd80-58d4-11e9-8d60-8649a3e3e950.jpg)
 
-![IMG_20190407_012722](https://user-images.githubusercontent.com/46425856/55674647-f0eebe80-58d4-11e9-81f3-929ed1e75239.jpg)
+<img src="https://user-images.githubusercontent.com/46425856/55674644-eaf8dd80-58d4-11e9-8d60-8649a3e3e950.jpg" width="300" height="500" />
 
-![IMG_20190407_012733](https://user-images.githubusercontent.com/46425856/55674652-fd731700-58d4-11e9-9ca5-5240dfec3633.jpg)
+<img src="https://user-images.githubusercontent.com/46425856/55674647-f0eebe80-58d4-11e9-81f3-929ed1e75239.jpg"  width="300" height="500"/>
+
+<img src="https://user-images.githubusercontent.com/46425856/55674652-fd731700-58d4-11e9-9ca5-5240dfec3633.jpg" width="300" height="500" />
 
 We have use  Stack widget to arrange the cards one above another . And , We use Draggable property to swipe the cards.
 
